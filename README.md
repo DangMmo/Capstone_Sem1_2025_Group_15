@@ -83,7 +83,7 @@ Mở file `src/config.py` và chỉnh sửa các mục quan trọng:
 
 ### **2. Chạy các kịch bản**
 
-Mở terminal tại thư mục gốc của dự án (`VRP_Solver_Integrated/`) và chạy một trong các lệnh sau:
+Mở terminal tại thư mục gốc của dự án (`CAPSTONE_GROUP 15_2E-VRP-PDD/`) và chạy một trong các lệnh sau:
 
 -   **Để chạy bộ giải trên toàn bộ bài toán (Baseline):**
     ```bash
