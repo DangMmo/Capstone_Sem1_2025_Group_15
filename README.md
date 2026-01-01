@@ -1,18 +1,5 @@
 # Capstone_Sem1_2025_Group_15
 Decompose-Route-Improve: A Clustering and Metaheuristic Framework for Two-Echelon Vehicle Routing in E-commerce
-Authors: 
-Ngô Trọng Đăng - IELSIU22015
-Phan Vũ Minh Ngọc - IELSIU22340
-Nguyễn Hải Vân Trang - IELSIU22339
-------
-Đây là bài Capstone thực hiện tại trường Đại học Quốc Tế - Đại học Quốc Gia dưới sự hướng dẫn của Dr. Hà Thị Xuân Chi lấy cảm hứng từ các bài báo key references sau: 
-Ropke, S., Pisinger, D., 2006. An adaptive large neighborhood search heuristic for the pickup and delivery problem with time windows. Transp. Sci. 40 (4), 455–472. http://dx.doi.org/10.1287/trsc.1050.0135.
-Zamal, M. A., Schrotenboer, A. H., & Van Woensel, T. (2025). The two-echelon vehicle routing problem with pickups, deliveries, and deadlines. Computers & Operations Research, 107016. https://doi.org/10.1016/j.cor.2025.107016
-Kerscher, C., & Minner, S. (2025). Decompose-route-improve framework for solving large-scale vehicle routing problems with time windows. Transportation Research Part E: Logistics and Transportation Review, 204, 104409. https://doi.org/10.1016/j.tre.2025.104409
------
-Trong link Git hub này gồm các Instances set đã được test cùng Results được thực hiện bởi nhóm sinh viên trường Đại học Quốc Tế - Đại học Quốc Gia
------
-HƯỚNG DẪN SỬ DỤNG CODE:
 
 Bài Capstone này giải cho bài toán Vận tải Hai cấp (2E-VRP) có các ràng buộc về Cửa sổ thời gian và Deadline (2E-VRP-PDD). Thuật toán cốt lõi là Adaptive Large Neighborhood Search (ALNS), được tăng cường với một phương pháp tiền xử lý bằng cách phân cụm khách hàng.
 
