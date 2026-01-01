@@ -46,7 +46,7 @@ Dự án này được viết bằng Python. Bạn cần cài đặt các thư v
 1.  **Clone a repository (Tải a repository):**
     ```bash
     git clone https://your-repository-url.git](https://github.com/DangMmo/Capstone_Sem1_2025_Group_15.git
-    cd VRP_Solver_Integrated
+    cd CAPSTONE_GROUP 15_2E-VRP-PDD
     ```
 
 2.  **Cài đặt các thư viện:**
